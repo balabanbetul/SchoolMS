@@ -5,9 +5,7 @@ import java.util.Scanner;
 
 import static SchoolMS.Main.*;
 import static SchoolMS.myStudent.*;
-//betulun  kodu
-
-//ahmetin kodu
+// asödjföadkjfaösdkfjaöldkfjf
 
 public class Admin extends Teacher {
     Scanner scanner = new Scanner(System.in);
