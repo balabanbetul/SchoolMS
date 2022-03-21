@@ -1,0 +1,107 @@
+userName: Kemal Torun
+password: 1234
+gender: male
+age: 28
+birthdate: 11.11.1995
+homeAddress: Alexanderstr.
+schoolNumber: 1001
+classTeacher: Rita
+NumberOfStars: 5
+schoolfee: true
+
+Mathematics:
+Physic:
+Biology:
+Chemistry:
+English:
+-------------------------
+
+userName: Betül Balaban
+password: 1234
+gender: female
+age: 25
+birthdate: 11.11.1994
+homeAddress: Alexanderstr.
+schoolNumber: 1002
+classTeacher: Daniela
+NumberOfStars: 5
+schoolfee: true
+
+Mathematics:
+Physic:
+Biology:
+Chemistry:
+English:
+-------------------------
+
+userName: Ahmet Durak
+password: 1234
+gender: male
+age: 28
+birthdate: 11.11.1993
+homeAddress: Alexanderstr.
+schoolNumber: 1003
+classTeacher: Daniela
+NumberOfStars: 5
+schoolfee: true
+
+Mathematics: 55
+Physic:
+Biology:
+Chemistry:
+English:
+-------------------------
+
+userName: Mustafa Karagül
+password: 1234
+gender: male
+age: 28
+birthdate: 11.11.1993
+homeAddress: Alexanderstr.
+schoolNumber: 1004
+classTeacher: Rita
+NumberOfStars: 5
+schoolfee: true
+
+Mathematics:
+Physic:
+Biology:
+Chemistry:
+English:
+-------------------------
+
+userName: Murat Koca
+password: 1234
+gender: male
+age: 30
+birthdate: 11.11.1991
+homeAddress: Alexanderstr.
+schoolNumber: 1005
+classTeacher: Daniela
+NumberOfStars: 5
+schoolfee: true
+
+Mathematics:
+Physic:
+Biology:
+Chemistry:
+English:
+-------------------------
+
+userName: Hamza Akgün
+password: 1234
+gender: male
+age: 28
+birthdate: 11.11.1993
+homeAddress: Alexanderstr.
+schoolNumber: 1006
+classTeacher: Rita
+NumberOfStars: 5
+schoolfee: true
+
+Mathematics:
+Physic:
+Biology:
+Chemistry:
+English:
+-------------------------

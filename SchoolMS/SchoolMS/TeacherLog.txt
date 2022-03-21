@@ -1,0 +1,60 @@
+userName: Handan Durak
+password: 1234
+gender: female
+age: 45
+birthdate: 11.11.1977
+homeAddress: Alexanderstr.
+Which_class: 1-A
+Branch: Mathematics
+NumberOfStars: 5
+
+-------------------------
+
+userName: Nurdan Töre
+password: 1234
+gender: female
+age: 45
+birthdate: 11.11.1977
+homeAddress: Alexanderstr.
+Which_class: 2-A
+Branch: English
+NumberOfStars: 5
+
+-------------------------
+
+userName: Baris Ökden
+password: 1234
+gender: male
+age: 45
+birthdate: 11.11.1977
+homeAddress: Alexanderstr.
+Which_class: 2-A
+Branch: Physic
+NumberOfStars: 5
+
+-------------------------
+
+userName: Ayhan Menekse
+password: 1234
+gender: male
+age: 45
+birthdate: 11.11.1977
+homeAddress: Alexanderstr.
+Which_class: 2-A
+Branch: Biology
+NumberOfStars: 5
+
+-------------------------
+
+userName: Mehmet Deniz
+password: 1234
+gender: male
+age: 45
+birthdate: 11.11.1977
+homeAddress: Alexanderstr.
+Which_class: 2-A
+Branch: Chemistry
+NumberOfStars: 5
+
+-------------------------
+
